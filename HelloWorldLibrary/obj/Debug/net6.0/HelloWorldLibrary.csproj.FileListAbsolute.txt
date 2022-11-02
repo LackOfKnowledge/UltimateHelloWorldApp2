@@ -1,0 +1,13 @@
+C:\Users\janke\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\bin\Debug\net6.0\CustomText.json
+C:\Users\janke\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\bin\Debug\net6.0\HelloWorldLibrary.deps.json
+C:\Users\janke\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\bin\Debug\net6.0\HelloWorldLibrary.dll
+C:\Users\janke\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\bin\Debug\net6.0\HelloWorldLibrary.pdb
+C:\Users\janke\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.csproj.AssemblyReference.cache
+C:\Users\janke\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janke\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.AssemblyInfoInputs.cache
+C:\Users\janke\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.AssemblyInfo.cs
+C:\Users\janke\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.csproj.CoreCompileInputs.cache
+C:\Users\janke\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.dll
+C:\Users\janke\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net6.0\refint\HelloWorldLibrary.dll
+C:\Users\janke\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net6.0\HelloWorldLibrary.pdb
+C:\Users\janke\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net6.0\ref\HelloWorldLibrary.dll

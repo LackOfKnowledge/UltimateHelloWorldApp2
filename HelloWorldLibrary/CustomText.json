@@ -1,0 +1,14 @@
+[
+  {
+    "language": "en",
+    "translation": {
+      "greeting": "Hello World"
+    }
+  },
+  {
+    "language": "pl",
+    "translation": {
+      "greeting": "Witaj Świecie"
+    }
+  }
+]
